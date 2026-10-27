@@ -25,7 +25,7 @@ Desenvolvo sistemas web com **PHP e MySQL**, com foco em CRUD, e estou em busca 
 | [Petshop](https://github.com/Baumann001/Atividade-8---Revis-o-de-Banco-e-Documenta-o-de-Petshop) | Cadastro de clientes, pets, serviços e agendamentos | PHP, MySQL |
 | [Gerenciador de Tarefas](https://github.com/Baumann001/gerenciador) | Tarefas por usuário com prioridade, setor e status | PHP, MySQL |
 
-Também participei do **Fast Sesi**, um sistema de gestão ferroviária integrado a uma maquete de trem com sensores (Arduino + API + PHP/MySQL), desenvolvido em equipe durante um ano.
+Também participei do **Fast Sesi**, um sistema de gestão ferroviária integrado a uma maquete de trem com sensores (Arduino + API + PHP/MySQL), desenvolvido em equipe durante um ano: [sistema web](https://github.com/hisabellippel/fast-sesi) · [parte IoT](https://github.com/anaa-amaral/fast_sesi_iot).
 
 ## 📫 Contato
 
